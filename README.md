@@ -8,3 +8,7 @@ You can clone it and run:
 
 to see the other projects
 simply change entry: "./src/...." on webpack.config.js file
+
+![](/Images/counter.jpg)
+
+![](/Images/visibility-toggle.jpg)
